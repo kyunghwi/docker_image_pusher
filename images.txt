@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine/ansible:2.14.5  拉取过了 这是第2个
-alpine/ansible:2.15.x
+alpine/ansible
