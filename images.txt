@@ -5,7 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine/ansible:2.14.5                  拉取过了  这是第2个
-#alpine/ansible                          拉取过了        3      不写版本号会拉取最新版本
-alpine/ansible:2.17.0
-mysql:8
-mysql:5.7
+#alpine/ansible                          拉取过了       3      不写版本号会拉取最新版本
+#alpine/ansible:2.17.0                                   4
+#mysql:8                                                 5
+#mysql:5.7                                               6
+elasticsearch:8.10.2
+kibana:8.10.2
